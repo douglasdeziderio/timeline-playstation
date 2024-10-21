@@ -1,1 +1,1 @@
-Um site para conta um pouco da história do console da Sony.
+Um site para contar um pouco da história do console da Sony.
